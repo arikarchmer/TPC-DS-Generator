@@ -5,4 +5,4 @@ Generate TPC-DS database of given size - PostgreSQL
   $ python3 gen.py [size in GB]
 
 ### Note
-  You will first need to modify the config file.
+  You will first need to modify the config file and /utils/copy.sql to reflect your correct directory
